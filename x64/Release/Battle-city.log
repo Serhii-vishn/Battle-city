@@ -1,0 +1,13 @@
+﻿  game-main.cpp
+  Game.cpp
+  Level.cpp
+d:\inership\battle-city\battle-city\level.cpp(5): warning C4150: удаление указателя на неполный тип "Sprite"; деструктор не вызван
+  d:\inership\v0.1\battle-city\include\framework.h(18): note:  см. объявление "Sprite"
+  PlayerTank.cpp
+  Tank.cpp
+  Создание кода
+  187 of 192 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Battle-city.vcxproj -> D:\Inership\Battle-city\x64\Release\Battle-city.exe
